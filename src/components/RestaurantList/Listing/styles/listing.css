@@ -1,0 +1,34 @@
+.sidebar {
+    position: absolute;
+    background-color: transparent;
+    right: 0;
+    width: 35%;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.sidebar .card-image {
+    height: 250px;
+    background-size: cover;
+    border-radius: 2px;
+    background-position: center;
+    border: darkgray 5px inset;
+}
+
+.sidebar .filter {
+    padding: 10px 0;
+    box-shadow: 0 0 3px rgba(50, 50, 50, 0.5);
+}
+
+.sidebar .filter span{
+    margin-left: 10px;
+}
+
+
+.sidebar .filter input[type="range"] {
+    vertical-align: middle;
+    width: 250px;
+    margin-left: 20px;
+}
+

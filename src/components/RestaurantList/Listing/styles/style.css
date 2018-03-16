@@ -1,0 +1,33 @@
+.sidebar .card{
+    width: 95%;
+    background-color: lightgrey;
+    border: 1px solid darkgray;
+    margin: 30px auto;
+    border-radius: 6px;
+    box-shadow: 0 6px 15px rgba(50, 50, 50, 0.45);
+}
+.sidebar .card .card-text{
+    padding: 10px;
+}
+.sidebar .card .card-text p{
+    font-size: 1rem;
+}
+
+.sidebar .card button{
+    border: none;
+    margin: 10px 5px 10px 0;
+    background: teal;
+    border-radius: 6px;
+    color: white;
+    padding: 5px 10px;
+    font-weight: normal;
+}
+
+.sidebar .card h3{
+    margin: 4px 0;
+    font-size: 1.2rem;
+    color: blue;
+}
+.sidebar .card. .stars{
+    color:orangered;
+}

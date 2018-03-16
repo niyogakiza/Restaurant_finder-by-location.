@@ -1,0 +1,11 @@
+.map{
+    width: 100vh;
+    height: 100%;
+    position: absolute;
+    display: inherit;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}

@@ -1,0 +1,14 @@
+.reviews{
+    max-height: 50vh;
+    overflow-y: auto;
+}
+.sidebar .card .reviews p {
+    font-size: 0.8rem;
+    margin:  0;
+}
+.sidebar .card .reviews .stars{
+    margin: 0;
+}
+.sidebar .card .reviews .stars i{
+   font-size: 1rem;
+}

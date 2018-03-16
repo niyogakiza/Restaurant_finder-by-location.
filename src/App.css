@@ -1,0 +1,17 @@
+body{
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  font-family: 'open Sans', sans-serif;
+}
+button{
+  cursor: pointer;
+}
+input[type="text"]:active, input[type="text"]:focus{
+  outline: none;
+}
+
+button:active,
+button:focus{
+  outline: none;
+}

@@ -1,0 +1,22 @@
+.create_resto span {
+    background-color: orange;
+    color: wheat;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+.create_resto form{
+    display: inline-block;
+}
+.create_resto form input[type="text"]{
+    border: none;
+    padding: 10px;
+    border-right: 1px solid cornsilk;
+}
+.create_resto button{
+    background: none;
+    border: none;
+    background-color: blue;
+    color: wheat;
+    padding: 10px 25px;
+    font-weight: bold;
+}
